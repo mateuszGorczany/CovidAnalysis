@@ -8,7 +8,7 @@ User should have had already installed:
 
 In order to create environment to be used for Jupyter Notebook for *covid.ipynb* file, one has to use execute command:
 
-`conda env create -n <env name> --file req.txt`
+`conda env create -n <env name> --file req.yml`
 
 or alternatively (using `pip`):
 `python -m pip install -r requirements.txt`
