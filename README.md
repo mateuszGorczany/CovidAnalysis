@@ -17,7 +17,7 @@ or alternatively (using `pip`):
 
 1. Download data from [here](https://www.kaggle.com/tawsifurrahman/covid19-radiography-database/version/3?fbclid=IwAR1lvU3Yo2slo2ds4rzhy9Fws337Efxix-2HbA1cckYzt5fGyUPGELN--yQ)
 2. All data have to be located in the same directory as *covid.ipynb* file.
-3. Directory with data should be renamed to `Data`.
+3. Directory with data should be place in `Data` directory.
 4. *Data* subdirectory has to contain only 2 subdirectories: *Normal* and *COVID*.
 
 Having done all of the above, one can run script now. 
